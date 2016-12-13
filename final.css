@@ -1,0 +1,58 @@
+/*AUTHOR: Kyle Kruskamp*/
+html {
+  font-family: monospace;
+  font-weight: bolder;
+  color:#443310;
+  background-image: url(http://www.zastavki.com/pictures/originals/2013/Nature___Flowers_Large_lilies_on_the_pond_043564_.jpg)
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: dotted;
+    padding: 10px;
+    background-color: pink;
+}
+
+.centerText {
+    text-align: center;
+}
+
+
+.centerGo {
+    margin: auto;
+    width: 14%;
+    border: dotted;
+    padding: 10px;
+    background-color: pink;
+}
+
+.resetGo {
+  margin: auto;
+  width: 7%;
+  border: dotted;
+  padding: 10px;
+  background-color: pink;
+}
+
+.rCenterGo {
+    margin: auto;
+    width: 17%;
+    border: dotted;
+    padding: 10px;
+    background-color: pink;
+}
+
+.lib_title {
+  font-family: sans-serif;
+}
+
+.user_input {
+  text-align: center;
+  width: 50px;
+  height: 15px;
+}
+
+.para_choice {
+  text-align: center;
+}
